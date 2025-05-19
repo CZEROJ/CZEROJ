@@ -1,8 +1,14 @@
 <!--타이틀 부분-->
+<br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
+</p>
+
+<br>
 
 <!--내용 부분-->
-<h3 align="center"> Tech Stack </h3>
+<h4 align="center"> Tech Stack </h4>
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-000000.svg?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
@@ -14,7 +20,7 @@
 
 <br>
 
-<h3 align="center"> Studying </h3>
+<h4 align="center"> Studying </h4>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
@@ -27,7 +33,7 @@
 </div>
 
 <br>
-<h3 align="center">Statistics</h3>
+<h4 align="center">Statistics</h4>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZEROJ&layout=compact&theme=transparent" height="100" alt="Top Langs" style="vertical-align: middle;" />
