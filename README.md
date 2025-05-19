@@ -1,6 +1,4 @@
 <!--타이틀 부분-->
-<br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
 </p>
@@ -8,10 +6,9 @@
 <p align="center">
 <!-- 바로 아래에 움짤 -->
 <p align="center">
-  <img src="https://i2.ruliweb.com/ori/19/10/17/16dd7eadf4947dd7b.gif" width="300" alt="Welcome GIF" />
+  <img src="https://i2.ruliweb.com/ori/19/10/17/16dd7eadf4947dd7b.gif" height = "100" width="450" alt="Welcome GIF" />
 </p>
 
-<br>
 
 <!--내용 부분-->
 <h4 align="center"> Tech Stack </h4>
