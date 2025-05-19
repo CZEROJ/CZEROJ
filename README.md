@@ -27,12 +27,18 @@
 </div>
 
 <br>
-<h3 align="center"> 
-Statistics </h3>
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CZEROJ&layout=compact)
-  <br>
+<h3 align="center">Statistics</h3>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZEROJ&layout=compact&theme=transparent" height="100" alt="Top Langs" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CZEROJ&show_icons=true&theme=transparent" height="100" alt="GitHub Stats" style="vertical-align: middle;" />
+</p>
+
 </div>
 
-<br>
+<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CZEROJ&theme=dark&layout=compact" height="84" alt="WakaTime Stats" style="vertical-align: middle;" />
+</p>
+
+</div>
