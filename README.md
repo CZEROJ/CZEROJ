@@ -6,7 +6,7 @@
 <p align="center">
 <!-- 바로 아래에 움짤 -->
 <p align="center">
-  <img src="https://i2.ruliweb.com/ori/19/10/17/16dd7eadf4947dd7b.gif" height = "100" width="450" alt="Welcome GIF" />
+  <img src="https://i2.ruliweb.com/ori/19/10/17/16dd7eadf4947dd7b.gif" height = "120" width="465" alt="Welcome GIF" />
 </p>
 
 
