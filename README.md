@@ -32,7 +32,9 @@ Statistics </h3>
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CZEROJ&layout=compact)
-  
+  <br>
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CZEROJ&theme=dark&layout=compact)
+
 </div>
 
 <br>
