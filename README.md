@@ -47,7 +47,7 @@
 
 <div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CZEROJ&theme=dark&layout=compact" height="84" alt="WakaTime Stats" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CZEROJ&theme=dark&layout=compact" height="100" alt="WakaTime Stats" style="vertical-align: middle;" />
 </p>
 
 </div>
